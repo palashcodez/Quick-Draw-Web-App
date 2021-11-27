@@ -43,7 +43,7 @@ canvas{
     }
 }
 
-table{
+.float{
     float: left;
     font-size: 25px;
 }
